@@ -1,0 +1,15 @@
+<level>
+	<spawnX>11</spawnX>
+	<spawnY>6</spawnY>
+	<finish>57</finish>
+	<useY>0</useY>
+	<finishLeft>0</finishLeft>
+	<finishBelow>0</finishBelow>
+	<signs>
+		<sign>
+			<message>Use the number keys (1, 2, 3...) to switch between the species you have unlocked.</message>
+			<x>37</x>
+			<y>21</y>
+		</sign>
+	</signs>
+</level>

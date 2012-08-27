@@ -1,0 +1,21 @@
+<level>
+	<title>First steps</title>
+	<spawnX>6</spawnX>
+	<spawnY>11</spawnY>
+	<finish>69</finish>
+	<useY>0</useY>
+	<finishLeft>0</finishLeft>
+	<finishBelow>0</finishBelow>
+	<signs>
+		<sign>
+			<message>Eat bananas to evolve into more advanced species (hopefully).</message>
+			<x>8</x>
+			<y>12</y>
+		</sign>
+		<sign>
+			<message>Eating a banana while jumping will give you a small speed boost!</message>
+			<x>32</x>
+			<y>12</y>
+		</sign>
+	</signs>
+</level>

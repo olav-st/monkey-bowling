@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="57" height="35" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tilemap" tilewidth="32" tileheight="32">
+  <image source="../gfx/tilemap.png" width="320" height="64"/>
+ </tileset>
+ <layer name="background" width="57" height="35">
+  <data encoding="base64" compression="zlib">
+   eJzt1EEKwCAMBVGX0vsfuAgNSFDoopr6Mw+yympQUsp79RllNGqgUQONGmjUQKOG6kaRb1TsHDWunigRrVH9GRpNhkaTodFkaDQZGns7G9vu6maX1Y1+F9E48uWfU26cvbFK4wn3iFt7dhsAAH93A66jCzk=
+  </data>
+ </layer>
+ <layer name="collide" width="57" height="35">
+  <data encoding="base64" compression="zlib">
+   eJztlcEKgCAQREWQDkH0/1/boYIQldXSdacZeBcR8bmreuecF3JHOt8idMSAjhjQEQM6YkBHDOJo72eEI6KnRv7kmsoo13WITTpIdQ0ZkHo4ZMa17moP1xkdY9e3d7bFcXlgoba1jtJ5MznG2dzZG9L1NXt5v+h9hpqOX+xBEsuOpWi8Oa01qI2mT4rSn1L732i7EEIIIdY4AO4zDYQ=
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,15 @@
+<level>
+	<spawnX>40</spawnX>
+	<spawnY>11</spawnY>
+	<finish>0</finish>
+	<useY>0</useY>
+	<finishLeft>1</finishLeft>
+	<finishBelow>0</finishBelow>
+	<signs>
+		<sign>
+			<message>Monkey Tower.</message>
+			<x>32</x>
+			<y>-10</y>
+		</sign>
+	</signs>
+</level>

@@ -1,0 +1,16 @@
+<level>
+	<title>First steps</title>
+	<spawnX>0</spawnX>
+	<spawnY>0</spawnY>
+	<finish>67</finish>
+	<useY>0</useY>
+	<finishLeft>0</finishLeft>
+	<finishBelow>0</finishBelow>
+	<signs>
+		<sign>
+			<message>You can push crates around to help you jump over obstacles.</message>
+			<x>19</x>
+			<y>7</y>
+		</sign>
+	</signs>
+</level>

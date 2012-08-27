@@ -1,0 +1,15 @@
+<level>
+	<spawnX>7</spawnX>
+	<spawnY>23</spawnY>
+	<finish>0</finish>
+	<useY>1</useY>
+	<finishLeft>0</finishLeft>
+	<finishBelow>0</finishBelow>
+	<signs>
+		<sign>
+			<message>Burgers are tasty, but contain a lot of unhealthy fat. Unlike bananas, burgers do not give you a boost</message>
+			<x>15</x>
+			<y>24</y>
+		</sign>
+	</signs>
+</level>

@@ -1,0 +1,25 @@
+<level>
+	<spawnX>0</spawnX>
+	<spawnY>26</spawnY>
+	<finish>0</finish>
+	<useY>0</useY>
+	<finishLeft>1</finishLeft>
+	<finishBelow>0</finishBelow>
+	<signs>
+		<sign>
+			<message>Stuck? Press R to restart the level.</message>
+			<x>11</x>
+			<y>23</y>
+		</sign>
+		<sign>
+			<message>Looks like the path is blocked. You'll need to find a way to roll over them.</message>
+			<x>58</x>
+			<y>9</y>
+		</sign>
+		<sign>
+			<message>      Bowling Alley ----></message>
+			<x>29</x>
+			<y>9</y>
+		</sign>
+	</signs>
+</level>

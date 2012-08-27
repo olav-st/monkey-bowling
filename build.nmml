@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<app title="MonkeyBowling" main="Main"
+		package="com.olav.ld24" version="1.0.0" company="Olav" />
+	<window width="720" height="480" fps="30"
+		orientation="portrait" resizable="false" />
+
+	<set name="BUILD_DIR" value="bin" />
+
+	<app preloader="com.haxepunk.Preloader" />
+
+	<classpath name="src" />
+	<haxelib name="nme" />
+	<haxelib name="HaxePunk" />
+
+	<assets path="assets/gfx" rename="gfx" type="image" include="*.png" />
+	<assets path="assets/sfx" rename="sfx" type="sound" include="*.wav" />
+	<assets path="assets/music" rename="music" type="music" include="*.mp3" />
+	<assets path="assets/font" rename="font" type="font" include="*.ttf" />
+	<assets path="assets/level" rename="level" type="string" include="*" />
+
+	<ndll name="std" />
+	<ndll name="regexp" />
+	<ndll name="zlib" />
+	<ndll name="nme" haxelib="nme" />
+</project>
